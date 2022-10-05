@@ -19,7 +19,7 @@ Projeto desenvolvido através do curso do John Smilga de React. Página no Netli
 ![comfy-reactjs netlify app_](https://user-images.githubusercontent.com/103163622/194153990-e7c0589b-39d7-4929-95ba-89a44ef46806.png)
 ![comfy-reactjs netlify app_products](https://user-images.githubusercontent.com/103163622/194154183-adb399e9-c63c-4064-a900-13cc14ff6a5f.png)
 ![comfy-reactjs netlify app_products (1)](https://user-images.githubusercontent.com/103163622/194154454-7697008c-ad8a-4c0a-85f7-4cb21e924dfe.png)
-![comfy-reactjs netlify app_products (2)](https://user-images.githubusercontent.com/103163622/194154468-ff39f5dc-a732-4fbe-b22e-cb5076abaa5a.png)
+![comfy-reactjs netlify app_checkout](https://user-images.githubusercontent.com/103163622/194155196-dfda5243-145b-4726-8216-c11b88bfef4f.png)
 
 Installation and Setup Instructions Clone down this repository. You will need node and npm installed globally on your machine.
 
